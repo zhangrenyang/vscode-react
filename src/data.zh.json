@@ -1,0 +1,418 @@
+[
+  {
+    "title": "官方资源",
+    "children": [
+      {
+        "title": "React 官方网站",
+        "description": "React 的官方网站，React 是一个用于构建用户界面的 JavaScript 库。",
+        "homepage": "https://reactjs.org/",
+        "image": "https://static.docs-hub.com/1150pxReacticonsvg_1727705587299.png"
+      },
+      {
+        "title": "React GitHub 仓库",
+        "description": "React 的 GitHub 仓库，您可以在这里找到源代码、问题和贡献。",
+        "homepage": "https://github.com/facebook/react",
+        "image": "https://static.docs-hub.com/1150pxReacticonsvg_1727705591640.png"
+      },
+      {
+        "title": "React 文档",
+        "description": "React 的全面文档，包括指南、教程和 API 参考。",
+        "homepage": "https://reactjs.org/docs/getting-started.html",
+        "image": "https://static.docs-hub.com/Reacticon_1727705593522.svg"
+      },
+      {
+        "title": "官方文档",
+        "description": "React、React Native、JSX 和 ES6+ 的官方文档",
+        "homepage": "https://react.dev",
+        "repository": "https://github.com/facebook/react",
+        "image": "https://static.docs-hub.com/react_1726808638876.svg"
+      }
+    ]
+  },
+  {
+    "title": "学习资源",
+    "children": [
+      {
+        "title": "React 教程",
+        "description": "通过构建井字游戏来学习 React 的交互式教程。",
+        "homepage": "https://reactjs.org/tutorial/tutorial.html",
+        "image": "https://static.docs-hub.com/Reactjslogo512_1727705596298.png"
+      },
+      {
+        "title": "Egghead.io React 课程",
+        "description": "由经验丰富的讲师提供的一系列 React 视频课程，从初级到高级主题。",
+        "homepage": "https://egghead.io/q/react",
+        "image": "https://static.docs-hub.com/eggheadlogo_1727705600277.png"
+      },
+      {
+        "title": "FreeCodeCamp React 教程",
+        "description": "FreeCodeCamp 的全面 React 视频教程，涵盖基础和高级主题。",
+        "homepage": "https://www.freecodecamp.org/learn/front-end-libraries/react/",
+        "image": "https://static.docs-hub.com/thecompletereacttutorial2021_1727705605069.png"
+      }
+    ]
+  },
+  {
+    "title": "社区和支持",
+    "children": [
+      {
+        "title": "Reactiflux Discord",
+        "description": "Discord 上的 React 开发者社区，您可以在这里提问和分享知识。",
+        "homepage": "https://www.reactiflux.com/",
+        "image": "https://static.docs-hub.com/logobanner_1727705634239.png"
+      },
+      {
+        "title": "Stack Overflow React 标签",
+        "description": "Stack Overflow 上用于提问和回答 React 相关问题的标签。",
+        "homepage": "https://stackoverflow.com/questions/tagged/reactjs",
+        "image": "https://static.docs-hub.com/6f6591e18674cee2e570564767f3f8ca14c191583000x1575_1727705638890.png"
+      },
+      {
+        "title": "Reddit React 社区",
+        "description": "专门讨论 React 的 subreddit，开发者在这里分享文章、教程和讨论。",
+        "homepage": "https://www.reddit.com/r/reactjs/",
+        "image": "https://static.docs-hub.com/19657282573d2a0dcf96e45af884b77ed7cf20184_1727705746788.png"
+      },
+      {
+        "title": "React 会议",
+        "description": "全球 React 相关会议列表",
+        "homepage": "https://react.dev/community/conferences",
+        "image": "https://static.docs-hub.com/conferences_1726813237616.svg"
+      }
+    ]
+  },
+  {
+    "title": "工具和库",
+    "children": [
+      {
+        "title": "Create React App",
+        "description": "一个无需构建配置即可创建新 React 应用程序的工具。",
+        "homepage": "https://create-react-app.dev/",
+        "image": "https://static.docs-hub.com/logo_1727705758956.svg"
+      },
+      {
+        "title": "React Router",
+        "description": "一组与您的应用程序声明式组合的导航组件。",
+        "homepage": "https://reactrouter.com/",
+        "image": "https://static.docs-hub.com/reactrouter_1727705958736.svg"
+      },
+      {
+        "title": "Redux",
+        "description": "JavaScript 应用程序的可预测状态容器，通常与 React 一起使用。",
+        "homepage": "https://redux.js.org/",
+        "image": "https://static.docs-hub.com/ReduxLogo_1727705963284.png"
+      }
+    ]
+  },
+  {
+    "title": "博客和文章",
+    "children": [
+      {
+        "title": "Overreacted",
+        "description": "React 核心团队成员 Dan Abramov 的博客，深入探讨 React 概念。",
+        "homepage": "https://overreacted.io/",
+        "image": "https://static.docs-hub.com/overreactogimage_1727705971390.png"
+      },
+      {
+        "title": "React 博客",
+        "description": "React 官方博客，提供新版本更新、最佳实践等信息。",
+        "homepage": "https://reactjs.org/blog/",
+        "image": "https://static.docs-hub.com/0cb55810f0c811ed985a3383d9405b5ereact_1727705975340.png"
+      },
+      {
+        "title": "LogRocket 博客",
+        "description": "涵盖 React 各种主题的博客，包括教程、最佳实践和性能提示。",
+        "homepage": "https://blog.logrocket.com/tag/react/",
+        "image": "https://static.docs-hub.com/logrocketlogo_1727705978518.png"
+      }
+    ]
+  },
+  {
+    "title": "状态管理",
+    "children": [
+      {
+        "title": "Redux",
+        "description": "JavaScript 应用的可预测状态容器",
+        "homepage": "https://redux.js.org/",
+        "repository": "https://github.com/reduxjs/redux",
+        "image": "https://static.docs-hub.com/redux_1726808672248.svg"
+      },
+      {
+        "title": "MobX",
+        "description": "简单、可扩展的状态管理",
+        "homepage": "https://mobx.js.org/",
+        "repository": "https://github.com/mobxjs/mobx",
+        "image": "https://static.docs-hub.com/mobx_1726808685670.png"
+      },
+      {
+        "title": "Recoil",
+        "description": "React 的状态管理库",
+        "homepage": "https://recoiljs.org/",
+        "repository": "https://github.com/facebookexperimental/Recoil",
+        "image": "https://static.docs-hub.com/recoil_1726808700575.svg"
+      },
+      {
+        "title": "Zustand",
+        "description": "React 的小型、快速且可扩展的状态管理",
+        "homepage": "https://zustand-demo.pmnd.rs/",
+        "repository": "https://github.com/pmndrs/zustand",
+        "image": "https://static.docs-hub.com/zustand_1726813335693.png"
+      },
+      {
+        "title": "Jotai",
+        "description": "React 的原始且灵活的状态管理",
+        "repository": "https://github.com/pmndrs/jotai",
+        "homepage": "https://jotai.org",
+        "image": "https://static.docs-hub.com/jotai_1726813397331.png"
+      }
+    ]
+  },
+  {
+    "title": "路由",
+    "children": [
+      {
+        "title": "React Router",
+        "description": "React 的声明式路由",
+        "homepage": "https://reactrouter.com/",
+        "repository": "https://github.com/remix-run/react-router",
+        "image": "https://static.docs-hub.com/reactrouter_1726808715261.svg"
+      },
+      {
+        "title": "Reach Router",
+        "description": "React 的小型、简单路由器",
+        "homepage": "https://reach.tech/router/",
+        "repository": "https://github.com/reach/router",
+        "image": "https://static.docs-hub.com/router_1726814038280.png"
+      },
+      {
+        "title": "Wouter",
+        "description": "React 的极简友好路由",
+        "homepage": "https://www.npmjs.com/package/wouter",
+        "repository": "https://github.com/molefrog/wouter",
+        "image": "https://static.docs-hub.com/wouter_1726813510951.svg"
+      }
+    ]
+  },
+  {
+    "title": "UI 组件库",
+    "children": [
+      {
+        "title": "Ant Design",
+        "description": "具有 React 价值观的设计系统",
+        "homepage": "https://ant.design/",
+        "repository": "https://github.com/ant-design/ant-design",
+        "image": "https://static.docs-hub.com/antd_1726808748322.svg"
+      },
+      {
+        "title": "Material-UI",
+        "description": "用于更快速、更轻松的 Web 开发的 React 组件",
+        "homepage": "https://mui.com/",
+        "repository": "https://github.com/mui/material-ui",
+        "image": "https://static.docs-hub.com/mui_1726808771606.svg"
+      },
+      {
+        "title": "Shadcn UI",
+        "description": "使用 Radix UI 和 Tailwind CSS 构建的精美设计组件",
+        "homepage": "https://ui.shadcn.com/",
+        "repository": "https://github.com/shadcn-ui/ui",
+        "image": "https://static.docs-hub.com/shadcn_1726814171964.svg"
+      },
+      {
+        "title": "React Bootstrap",
+        "description": "使用 React 构建的 Bootstrap 组件",
+        "homepage": "https://react-bootstrap.github.io/",
+        "repository": "https://github.com/react-bootstrap/react-bootstrap",
+        "image": "https://static.docs-hub.com/bootstrap_1726814226165.svg"
+      }
+    ]
+  },
+  {
+    "title": "开发工具",
+    "children": [
+      {
+        "title": "Create React App",
+        "description": "通过运行一个命令来设置现代 Web 应用程序",
+        "homepage": "https://create-react-app.dev/",
+        "repository": "https://github.com/facebook/create-react-app",
+        "image": "https://static.docs-hub.com/createreactapp_1726808788932.svg"
+      },
+      {
+        "title": "Vite",
+        "description": "下一代前端工具",
+        "homepage": "https://vitejs.dev/",
+        "repository": "https://github.com/vitejs/vite",
+        "image": "https://static.docs-hub.com/vite_1726808798283.svg"
+      },
+      {
+        "title": "Parcel",
+        "description": "Web 的零配置构建工具",
+        "homepage": "https://parceljs.org/",
+        "repository": "https://github.com/parcel-bundler/parcel",
+        "image": "https://static.docs-hub.com/parcel_1726814346402.png"
+      },
+      {
+        "title": "Million",
+        "description": "极快且轻量级的优化编译器",
+        "homepage": "https://million.dev",
+        "repository": "https://github.com/aidenybai/million",
+        "image": "https://static.docs-hub.com/million_1726815113475.svg"
+      }
+    ]
+  },
+  {
+    "title": "React Native",
+    "children": [
+      {
+        "title": "React Native",
+        "description": "使用 React 构建原生应用的框架",
+        "homepage": "https://reactnative.dev/",
+        "repository": "https://github.com/facebook/react-native",
+        "image": "https://static.docs-hub.com/reactnative_1726815280280.svg"
+      },
+      {
+        "title": "Expo",
+        "description": "用于制作通用原生应用的开源平台",
+        "homepage": "https://expo.dev/",
+        "repository": "https://github.com/expo/expo",
+        "image": "https://static.docs-hub.com/expo_1726815846742.svg"
+      },
+      {
+        "title": "React Navigation",
+        "description": "React Native 应用的路由和导航",
+        "homepage": "https://reactnavigation.org/",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "image": "https://static.docs-hub.com/reactnavigation_1726815607944.svg"
+      }
+    ]
+  },
+  {
+    "title": "CSS 和样式解决方案",
+    "children": [
+      {
+        "title": "Styled Components",
+        "description": "组件时代的视觉原语",
+        "homepage": "https://styled-components.com/",
+        "repository": "https://github.com/styled-components/styled-components",
+        "image": "https://static.docs-hub.com/styledcomponents_1726808851917.png"
+      },
+      {
+        "title": "Tailwind CSS",
+        "description": "实用优先的 CSS 框架",
+        "homepage": "https://tailwindcss.com/",
+        "repository": "https://github.com/tailwindlabs/tailwindcss",
+        "image": "https://static.docs-hub.com/tailwindcss_1726818180030.svg"
+      },
+      {
+        "title": "Emotion",
+        "description": "为高性能样式组合设计的 CSS-in-JS 库",
+        "homepage": "https://emotion.sh/",
+        "repository": "https://github.com/emotion-js/emotion",
+        "image": "https://static.docs-hub.com/emotion_1726815963823.png"
+      }
+    ]
+  },
+  {
+    "title": "动画和交互",
+    "children": [
+      {
+        "title": "Framer Motion",
+        "description": "React 的生产就绪动画库",
+        "homepage": "https://www.framer.com/motion/",
+        "repository": "https://github.com/framer/motion",
+        "image": "https://static.docs-hub.com/motion_1726817921947.png"
+      },
+      {
+        "title": "React Spring",
+        "description": "基于弹簧物理的动画库",
+        "homepage": "https://react-spring.io/",
+        "repository": "https://github.com/pmndrs/react-spring",
+        "image": "https://static.docs-hub.com/spring_1726816498127.jpg"
+      },
+      {
+        "title": "Auto Animate",
+        "description": "零配置、即插即用的动画工具",
+        "homepage": "https://auto-animate.formkit.com",
+        "repository": "https://github.com/formkit/auto-animate",
+        "image": "https://static.docs-hub.com/animate_1726816679137.svg"
+      }
+    ]
+  },
+  {
+    "title": "表单",
+    "children": [
+      {
+        "title": "Formik",
+        "description": "在 React 中构建表单，无需痛苦",
+        "homepage": "https://formik.org/",
+        "repository": "https://github.com/jaredpalmer/formik",
+        "image": "https://static.docs-hub.com/formik_1726817094502.svg"
+      },
+      {
+        "title": "React Hook Form",
+        "description": "高性能、灵活且可扩展的表单，具有易用的验证",
+        "homepage": "https://react-hook-form.com/",
+        "repository": "https://github.com/react-hook-form/react-hook-form",
+        "image": "https://static.docs-hub.com/reacthookform_1726817762871.png"
+      },
+      {
+        "title": "React JSON Schema Form",
+        "description": "用于从 JSON Schema 构建 Web 表单的 React 组件",
+        "homepage": "https://rjsf-team.github.io/react-jsonschema-form",
+        "repository": "https://github.com/mozilla-services/react-jsonschema-form",
+        "image": "https://static.docs-hub.com/reactjsonschemaform_1726817496089.png"
+      }
+    ]
+  },
+  {
+    "title": "数据获取和异步操作",
+    "children": [
+      {
+        "title": "Axios",
+        "description": "基于 Promise 的浏览器和 node.js 的 HTTP 客户端",
+        "homepage": "https://axios-http.com/",
+        "repository": "https://github.com/axios/axios",
+        "image": "https://static.docs-hub.com/axios_1726808943691.svg"
+      },
+      {
+        "title": "React Query",
+        "description": "用于获取、缓存和同步服务器状态的钩子",
+        "homepage": "https://tanstack.com/query/v4",
+        "repository": "https://github.com/TanStack/query",
+        "image": "https://static.docs-hub.com/query_1726818124733.png"
+      },
+      {
+        "title": "SWR",
+        "description": "用于数据获取的 React Hooks",
+        "homepage": "https://swr.vercel.app/",
+        "repository": "https://github.com/vercel/swr",
+        "image": "https://static.docs-hub.com/SWR_1726817545918.svg"
+      }
+    ]
+  },
+  {
+    "title": "SSR 和 SSG",
+    "children": [
+      {
+        "title": "Next.js",
+        "description": "用于生产的 React 框架",
+        "homepage": "https://nextjs.org/",
+        "repository": "https://github.com/vercel/next.js/",
+        "image": "https://static.docs-hub.com/next_1726808966659.png"
+      },
+      {
+        "title": "Gatsby",
+        "description": "React 的超快现代站点生成器",
+        "homepage": "https://www.gatsbyjs.com/",
+        "repository": "https://github.com/gatsbyjs/gatsby",
+        "image": "https://static.docs-hub.com/gatsbyjs_1726817599930.svg"
+      },
+      {
+        "title": "Remix",
+        "description": "让您专注于用户界面的全栈 Web 框架",
+        "homepage": "https://remix.run/",
+        "repository": "https://github.com/remix-run/remix",
+        "image": "https://static.docs-hub.com/remix_1726818038396.svg"
+      }
+    ]
+  }
+]

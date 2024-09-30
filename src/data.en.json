@@ -1,0 +1,418 @@
+[
+  {
+    "title": "Official Resources",
+    "children": [
+      {
+        "title": "React Official Website",
+        "description": "The official website of React, a JavaScript library for building user interfaces.",
+        "homepage": "https://reactjs.org/",
+        "image": "https://static.docs-hub.com/1150pxReacticonsvg_1727705587299.png"
+      },
+      {
+        "title": "React GitHub Repository",
+        "description": "The GitHub repository for React, where you can find the source code, issues, and contributions.",
+        "homepage": "https://github.com/facebook/react",
+        "image": "https://static.docs-hub.com/1150pxReacticonsvg_1727705591640.png"
+      },
+      {
+        "title": "React Documentation",
+        "description": "Comprehensive documentation for React, including guides, tutorials, and API reference.",
+        "homepage": "https://reactjs.org/docs/getting-started.html",
+        "image": "https://static.docs-hub.com/Reacticon_1727705593522.svg"
+      },
+      {
+        "title": "Official Documentation",
+        "description": "React, React Native, JSX, and ES6+ official documentation",
+        "homepage": "https://react.dev",
+        "repository": "https://github.com/facebook/react",
+        "image": "https://static.docs-hub.com/react_1726808638876.svg"
+      }
+    ]
+  },
+  {
+    "title": "Learning Resources",
+    "children": [
+      {
+        "title": "React Tutorial",
+        "description": "Interactive tutorial for learning React by building a tic-tac-toe game.",
+        "homepage": "https://reactjs.org/tutorial/tutorial.html",
+        "image": "https://static.docs-hub.com/Reactjslogo512_1727705596298.png"
+      },
+      {
+        "title": "Egghead.io React Courses",
+        "description": "A series of video courses on React, from beginner to advanced topics, by experienced instructors.",
+        "homepage": "https://egghead.io/q/react",
+        "image": "https://static.docs-hub.com/eggheadlogo_1727705600277.png"
+      },
+      {
+        "title": "FreeCodeCamp React Tutorial",
+        "description": "FreeCodeCamp's comprehensive video tutorial on React, covering the basics and advanced topics.",
+        "homepage": "https://www.freecodecamp.org/learn/front-end-libraries/react/",
+        "image": "https://static.docs-hub.com/thecompletereacttutorial2021_1727705605069.png"
+      }
+    ]
+  },
+  {
+    "title": "Community and Support",
+    "children": [
+      {
+        "title": "Reactiflux Discord",
+        "description": "A community of React developers on Discord, where you can ask questions and share knowledge.",
+        "homepage": "https://www.reactiflux.com/",
+        "image": "https://static.docs-hub.com/logobanner_1727705634239.png"
+      },
+      {
+        "title": "Stack Overflow React Tag",
+        "description": "A tag on Stack Overflow for asking and answering questions about React.",
+        "homepage": "https://stackoverflow.com/questions/tagged/reactjs",
+        "image": "https://static.docs-hub.com/6f6591e18674cee2e570564767f3f8ca14c191583000x1575_1727705638890.png"
+      },
+      {
+        "title": "Reddit React Community",
+        "description": "A subreddit dedicated to React, where developers share articles, tutorials, and discussions.",
+        "homepage": "https://www.reddit.com/r/reactjs/",
+        "image": "https://static.docs-hub.com/19657282573d2a0dcf96e45af884b77ed7cf20184_1727705746788.png"
+      },
+      {
+        "title": "React Conferences",
+        "description": "List of React-related conferences worldwide",
+        "homepage": "https://react.dev/community/conferences",
+        "image": "https://static.docs-hub.com/conferences_1726813237616.svg"
+      }
+    ]
+  },
+  {
+    "title": "Tools and Libraries",
+    "children": [
+      {
+        "title": "Create React App",
+        "description": "A tool to create a new React application with no build configuration.",
+        "homepage": "https://create-react-app.dev/",
+        "image": "https://static.docs-hub.com/logo_1727705758956.svg"
+      },
+      {
+        "title": "React Router",
+        "description": "A collection of navigational components that compose declaratively with your application.",
+        "homepage": "https://reactrouter.com/",
+        "image": "https://static.docs-hub.com/reactrouter_1727705958736.svg"
+      },
+      {
+        "title": "Redux",
+        "description": "A predictable state container for JavaScript applications, often used with React.",
+        "homepage": "https://redux.js.org/",
+        "image": "https://static.docs-hub.com/ReduxLogo_1727705963284.png"
+      }
+    ]
+  },
+  {
+    "title": "Blogs and Articles",
+    "children": [
+      {
+        "title": "Overreacted",
+        "description": "A blog by Dan Abramov, one of the core team members of React, covering deep dives into React concepts.",
+        "homepage": "https://overreacted.io/",
+        "image": "https://static.docs-hub.com/overreactogimage_1727705971390.png"
+      },
+      {
+        "title": "React Blog",
+        "description": "The official React blog, providing updates on new releases, best practices, and more.",
+        "homepage": "https://reactjs.org/blog/",
+        "image": "https://static.docs-hub.com/0cb55810f0c811ed985a3383d9405b5ereact_1727705975340.png"
+      },
+      {
+        "title": "LogRocket Blog",
+        "description": "A blog that covers various topics in React, including tutorials, best practices, and performance tips.",
+        "homepage": "https://blog.logrocket.com/tag/react/",
+        "image": "https://static.docs-hub.com/logrocketlogo_1727705978518.png"
+      }
+    ]
+  },
+  {
+    "title": "State Management",
+    "children": [
+      {
+        "title": "Redux",
+        "description": "A predictable state container for JavaScript apps",
+        "homepage": "https://redux.js.org/",
+        "repository": "https://github.com/reduxjs/redux",
+        "image": "https://static.docs-hub.com/redux_1726808672248.svg"
+      },
+      {
+        "title": "MobX",
+        "description": "Simple, scalable state management",
+        "homepage": "https://mobx.js.org/",
+        "repository": "https://github.com/mobxjs/mobx",
+        "image": "https://static.docs-hub.com/mobx_1726808685670.png"
+      },
+      {
+        "title": "Recoil",
+        "description": "State management library for React",
+        "homepage": "https://recoiljs.org/",
+        "repository": "https://github.com/facebookexperimental/Recoil",
+        "image": "https://static.docs-hub.com/recoil_1726808700575.svg"
+      },
+      {
+        "title": "Zustand",
+        "description": "Small, fast, and scalable state management for React",
+        "homepage": "https://zustand-demo.pmnd.rs/",
+        "repository": "https://github.com/pmndrs/zustand",
+        "image": "https://static.docs-hub.com/zustand_1726813335693.png"
+      },
+      {
+        "title": "Jotai",
+        "description": "Primitive and flexible state management for React",
+        "repository": "https://github.com/pmndrs/jotai",
+        "homepage": "https://jotai.org",
+        "image": "https://static.docs-hub.com/jotai_1726813397331.png"
+      }
+    ]
+  },
+  {
+    "title": "Routing",
+    "children": [
+      {
+        "title": "React Router",
+        "description": "Declarative routing for React",
+        "homepage": "https://reactrouter.com/",
+        "repository": "https://github.com/remix-run/react-router",
+        "image": "https://static.docs-hub.com/reactrouter_1726808715261.svg"
+      },
+      {
+        "title": "Reach Router",
+        "description": "A small, simple router for React",
+        "homepage": "https://reach.tech/router/",
+        "repository": "https://github.com/reach/router",
+        "image": "https://static.docs-hub.com/router_1726814038280.png"
+      },
+      {
+        "title": "Wouter",
+        "description": "A minimalist-friendly routing for React",
+        "homepage": "https://www.npmjs.com/package/wouter",
+        "repository": "https://github.com/molefrog/wouter",
+        "image": "https://static.docs-hub.com/wouter_1726813510951.svg"
+      }
+    ]
+  },
+  {
+    "title": "UI Component Libraries",
+    "children": [
+      {
+        "title": "Ant Design",
+        "description": "A design system with values of React",
+        "homepage": "https://ant.design/",
+        "repository": "https://github.com/ant-design/ant-design",
+        "image": "https://static.docs-hub.com/antd_1726808748322.svg"
+      },
+      {
+        "title": "Material-UI",
+        "description": "React components for faster and easier web development",
+        "homepage": "https://mui.com/",
+        "repository": "https://github.com/mui/material-ui",
+        "image": "https://static.docs-hub.com/mui_1726808771606.svg"
+      },
+      {
+        "title": "Shadcn UI",
+        "description": "Beautifully designed components built using Radix UI and Tailwind CSS",
+        "homepage": "https://ui.shadcn.com/",
+        "repository": "https://github.com/shadcn-ui/ui",
+        "image": "https://static.docs-hub.com/shadcn_1726814171964.svg"
+      },
+      {
+        "title": "React Bootstrap",
+        "description": "Bootstrap components built with React",
+        "homepage": "https://react-bootstrap.github.io/",
+        "repository": "https://github.com/react-bootstrap/react-bootstrap",
+        "image": "https://static.docs-hub.com/bootstrap_1726814226165.svg"
+      }
+    ]
+  },
+  {
+    "title": "Development Tools",
+    "children": [
+      {
+        "title": "Create React App",
+        "description": "Set up a modern web app by running one command",
+        "homepage": "https://create-react-app.dev/",
+        "repository": "https://github.com/facebook/create-react-app",
+        "image": "https://static.docs-hub.com/createreactapp_1726808788932.svg"
+      },
+      {
+        "title": "Vite",
+        "description": "Next generation frontend tooling",
+        "homepage": "https://vitejs.dev/",
+        "repository": "https://github.com/vitejs/vite",
+        "image": "https://static.docs-hub.com/vite_1726808798283.svg"
+      },
+      {
+        "title": "Parcel",
+        "description": "The zero configuration build tool for the web",
+        "homepage": "https://parceljs.org/",
+        "repository": "https://github.com/parcel-bundler/parcel",
+        "image": "https://static.docs-hub.com/parcel_1726814346402.png"
+      },
+      {
+        "title": "Million",
+        "description": "An extremely fast and lightweight optimizing compiler",
+        "homepage": "https://million.dev",
+        "repository": "https://github.com/aidenybai/million",
+        "image": "https://static.docs-hub.com/million_1726815113475.svg"
+      }
+    ]
+  },
+  {
+    "title": "React Native",
+    "children": [
+      {
+        "title": "React Native",
+        "description": "A framework for building native apps using React",
+        "homepage": "https://reactnative.dev/",
+        "repository": "https://github.com/facebook/react-native",
+        "image": "https://static.docs-hub.com/reactnative_1726815280280.svg"
+      },
+      {
+        "title": "Expo",
+        "description": "An open-source platform for making universal native apps",
+        "homepage": "https://expo.dev/",
+        "repository": "https://github.com/expo/expo",
+        "image": "https://static.docs-hub.com/expo_1726815846742.svg"
+      },
+      {
+        "title": "React Navigation",
+        "description": "Routing and navigation for your React Native apps",
+        "homepage": "https://reactnavigation.org/",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "image": "https://static.docs-hub.com/reactnavigation_1726815607944.svg"
+      }
+    ]
+  },
+  {
+    "title": "CSS and Styling Solutions",
+    "children": [
+      {
+        "title": "Styled Components",
+        "description": "Visual primitives for the component age",
+        "homepage": "https://styled-components.com/",
+        "repository": "https://github.com/styled-components/styled-components",
+        "image": "https://static.docs-hub.com/styledcomponents_1726808851917.png"
+      },
+      {
+        "title": "Tailwind CSS",
+        "description": "A utility-first CSS framework",
+        "homepage": "https://tailwindcss.com/",
+        "repository": "https://github.com/tailwindlabs/tailwindcss",
+        "image": "https://static.docs-hub.com/tailwindcss_1726818180030.svg"
+      },
+      {
+        "title": "Emotion",
+        "description": "CSS-in-JS library designed for high performance style composition",
+        "homepage": "https://emotion.sh/",
+        "repository": "https://github.com/emotion-js/emotion",
+        "image": "https://static.docs-hub.com/emotion_1726815963823.png"
+      }
+    ]
+  },
+  {
+    "title": "Animation and Interactions",
+    "children": [
+      {
+        "title": "Framer Motion",
+        "description": "A production-ready motion library for React",
+        "homepage": "https://www.framer.com/motion/",
+        "repository": "https://github.com/framer/motion",
+        "image": "https://static.docs-hub.com/motion_1726817921947.png"
+      },
+      {
+        "title": "React Spring",
+        "description": "A spring-physics-based animation library",
+        "homepage": "https://react-spring.io/",
+        "repository": "https://github.com/pmndrs/react-spring",
+        "image": "https://static.docs-hub.com/spring_1726816498127.jpg"
+      },
+      {
+        "title": "Auto Animate",
+        "description": "A zero-config, drop-in animation utility",
+        "homepage": "https://auto-animate.formkit.com",
+        "repository": "https://github.com/formkit/auto-animate",
+        "image": "https://static.docs-hub.com/animate_1726816679137.svg"
+      }
+    ]
+  },
+  {
+    "title": "Forms",
+    "children": [
+      {
+        "title": "Formik",
+        "description": "Build forms in React, without the tears",
+        "homepage": "https://formik.org/",
+        "repository": "https://github.com/jaredpalmer/formik",
+        "image": "https://static.docs-hub.com/formik_1726817094502.svg"
+      },
+      {
+        "title": "React Hook Form",
+        "description": "Performant, flexible and extensible forms with easy-to-use validation",
+        "homepage": "https://react-hook-form.com/",
+        "repository": "https://github.com/react-hook-form/react-hook-form",
+        "image": "https://static.docs-hub.com/reacthookform_1726817762871.png"
+      },
+      {
+        "title": "React JSON Schema Form",
+        "description": "A React component for building Web forms from JSON Schema",
+        "homepage": "https://rjsf-team.github.io/react-jsonschema-form",
+        "repository": "https://github.com/mozilla-services/react-jsonschema-form",
+        "image": "https://static.docs-hub.com/reactjsonschemaform_1726817496089.png"
+      }
+    ]
+  },
+  {
+    "title": "Data Fetching and Asynchronous Operations",
+    "children": [
+      {
+        "title": "Axios",
+        "description": "Promise based HTTP client for the browser and node.js",
+        "homepage": "https://axios-http.com/",
+        "repository": "https://github.com/axios/axios",
+        "image": "https://static.docs-hub.com/axios_1726808943691.svg"
+      },
+      {
+        "title": "React Query",
+        "description": "Hooks for fetching, caching, and syncing server state",
+        "homepage": "https://tanstack.com/query/v4",
+        "repository": "https://github.com/TanStack/query",
+        "image": "https://static.docs-hub.com/query_1726818124733.png"
+      },
+      {
+        "title": "SWR",
+        "description": "React Hooks for Data Fetching",
+        "homepage": "https://swr.vercel.app/",
+        "repository": "https://github.com/vercel/swr",
+        "image": "https://static.docs-hub.com/SWR_1726817545918.svg"
+      }
+    ]
+  },
+  {
+    "title": "SSR and SSG",
+    "children": [
+      {
+        "title": "Next.js",
+        "description": "The React Framework for Production",
+        "homepage": "https://nextjs.org/",
+        "repository": "https://github.com/vercel/next.js/",
+        "image": "https://static.docs-hub.com/next_1726808966659.png"
+      },
+      {
+        "title": "Gatsby",
+        "description": "Blazing fast modern site generator for React",
+        "homepage": "https://www.gatsbyjs.com/",
+        "repository": "https://github.com/gatsbyjs/gatsby",
+        "image": "https://static.docs-hub.com/gatsbyjs_1726817599930.svg"
+      },
+      {
+        "title": "Remix",
+        "description": "Full stack web Framework that lets you focus on the user interface",
+        "homepage": "https://remix.run/",
+        "repository": "https://github.com/remix-run/remix",
+        "image": "https://static.docs-hub.com/remix_1726818038396.svg"
+      }
+    ]
+  }
+]

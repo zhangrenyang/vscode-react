@@ -3,21 +3,15 @@
 	"icon": "images/logo.png",
 	"displayName": "React",
 	"description": "A VS Code extension for quick access to React, supporting multi-language selection and simultaneous viewing in both VS Code and the system browser.",
-	"version": "0.1.17",
+	"version": "0.1.18",
 	"license": "MIT",
 	"publisher": "zhang-renyang",
 	"keywords": [
 		"React",
-		"Official Documentation",
-		"Community",
-		"Tutorials",
-		"AI Code Completion",
-		"Real-time Collaboration",
-		"Integrated Terminal",
-		"CLI",
-		"Debugging Tools",
-		"Version Control",
-		"Plugins"
+		"React JS",
+		"React Snippets",
+		"React Multi-Language",
+		"React Browser Preview"
 	],
 	"repository": {
 		"url": "https://github.com/zhangrenyang/vscode-react"
@@ -26,11 +20,29 @@
 		"vscode": "^1.75.0"
 	},
 	"categories": [
-		"Other"
+		"Snippets"
 	],
 	"activationEvents": [],
 	"main": "./dist/extension.js",
 	"contributes": {
+		"snippets": [
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/snippets-ts.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/snippets-ts.json"
+			}
+		],
 		"commands": [
 			{
 				"command": "React.switchLanguage",

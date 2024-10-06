@@ -1,34 +1,72 @@
-## React Resources VS Code Extension
+# VS Code React Extension
 
-This is a VS Code extension designed for quick access to React resources. It supports multi-language selection (English and Chinese) and allows you to open links in both the VS Code panel and the system's default browser.
+This Visual Studio Code extension is designed for React developers. It provides quick access to React-related resources, supports multiple languages, and allows viewing content simultaneously in both VS Code and the system browser.
 
 ## Features
-- **Access React Resources:** Quickly access a curated list of React resources, including tutorials, frameworks, component libraries, and more.
-- **Multi-language Support:** Automatically detects the current language of your VS Code (English or Chinese) and loads the corresponding resource file. You can also manually switch languages using the command palette.
-- **Open Links:** Single-click on a resource in the tree view to open the link in both the VS Code panel and the system's default browser.
-- **Switch Language:** Use the command palette to switch between English and Chinese resource lists.
 
-## Commands
-- **React: Open Link** - Opens the selected resource link in both the VS Code panel and the default system browser.
-- **React: Switch Language** - Allows you to switch between English (`en`) and Chinese (`zh`) resource lists.
+1. Quick access to React-related resources
+2. Multi-language support (currently English and Chinese)
+3. Simultaneous viewing in VS Code and system browser
+4. Useful React code snippets
 
-## React 资源 VS Code 插件
+## Installation
 
-这是一个用于快速访问 React 资源的 VS Code 插件。它支持多语言选择（英文和中文），并允许您在 VS Code 面板和系统默认浏览器中打开链接。
+Search for "vscode-react" in the VS Code Extension Marketplace and click install.
 
-## 功能
-- **访问 React 资源：** 快速访问一系列精选的 React 资源，包括教程、框架、组件库等。
-- **多语言支持：** 自动检测您当前 VS Code 的语言（英文或中文）并加载相应的资源文件。您也可以手动切换语言。
-- **打开链接：** 单击树视图中的资源项，在 VS Code 面板和系统默认浏览器中同时打开链接。
-- **切换语言：** 使用命令面板在英文（`en`）和中文（`zh`）资源列表之间切换。
+## Usage
 
-## 命令
-- **React: Open Link** - 在 VS Code 面板和默认系统浏览器中打开所选资源链接。
-- **React: Switch Language** - 允许您在英文（`en`）和中文（`zh`）资源列表之间切换。
+1. Click the React icon in the VS Code activity bar to open the React view.
+2. Browse various React-related resources in the React view.
+3. Click on a resource item to open the related webpage in VS Code and the system default browser.
+4. Use the command palette (Ctrl+Shift+P or Cmd+Shift+P) and type "React: Switch Language" to switch languages.
 
-## 使用方法
-1. 在您的 VS Code 中安装此插件。
-2. 插件会根据您的 VS Code 语言设置（英文或中文）自动加载资源。
-3. 使用活动栏中的树视图浏览 React 资源。
-4. 单击任意项，在新的 VS Code 面板和默认浏览器中打开链接。
-5. 要切换语言，打开命令面板（`Ctrl+Shift+P` 或 `Cmd+Shift+P` 在 macOS 上），输入 `React: Switch Language`，然后选择您想要的语言。
+## Code Snippets
+
+This extension provides many useful React code snippets for both JavaScript and TypeScript. Here's a breakdown of the main snippets:
+
+### JavaScript React (javascriptreact, javascript)
+
+- `imrs`: Import useState Hook
+- `imrse`: Import useState and useEffect Hooks
+- `imrd`: Import ReactDOM
+- `impt`: Import PropTypes
+- `fc`: Create a Function Component
+- `fcu`: Create a Function Component with useState
+- `uef`: Use useEffect Hook
+- `ucb`: Use useCallback Hook
+- `urf`: Use useRef Hook
+- `uct`: Use useContext Hook
+- `urd`: Use useReducer Hook
+- `ume`: Use useMemo Hook
+- `usf`: Declare a new state variable using useState
+- `fce`: Create an Inline Exported Function Component
+- `uefc`: useEffect with cleanup
+- `ule`: Use useLayoutEffect Hook
+- `hook`: Create a Custom Hook
+- `cp`: Create a Context Provider with useState
+
+### TypeScript React (typescriptreact, typescript)
+
+- `imh`: Import React Hooks
+- `imrd`: Import ReactDOM
+- `fc`: Create a Function Component with TypeScript
+- `fcu`: Create a Function Component with useState and TypeScript
+- `uef`: Use useEffect Hook
+- `ucb`: Use useCallback Hook
+- `usf`: Declare a new state variable with type using useState
+- `urf`: Declare a new ref variable with type using useRef
+- `hook`: Create a Custom Hook
+- `cp`: Create a Context Provider with TypeScript and useState
+- `fcm`: Create a Function Component wrapped with React.memo
+- `urd`: Use useReducer Hook
+- `uct`: Use useContext Hook
+- `ume`: Use useMemo Hook
+- `ule`: Use useLayoutEffect Hook
+
+## Contributing
+
+If you have any suggestions or find a bug, please feel free to open an issue or submit a pull request on the GitHub repository.
+
+## License
+
+This extension is released under the MIT License. See the LICENSE file for details.

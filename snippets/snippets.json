@@ -1,0 +1,177 @@
+{
+  "Import useState": {
+    "prefix": "imrs",
+    "body": [
+      "import { useState } from 'react';\n"
+    ],
+    "description": "Import useState Hook"
+  },
+  "Import useState and useEffect": {
+    "prefix": "imrse",
+    "body": [
+      "import { useState, useEffect } from 'react';\n"
+    ],
+    "description": "Import useState and useEffect Hooks"
+  },
+  "Import ReactDOM": {
+    "prefix": "imrd",
+    "body": [
+      "import ReactDOM from 'react-dom';"
+    ],
+    "description": "Import ReactDOM"
+  },
+  "Import PropTypes": {
+    "prefix": "impt",
+    "body": [
+      "import PropTypes from 'prop-types';"
+    ],
+    "description": "Import PropTypes"
+  },
+  "Function Component": {
+    "prefix": "fc",
+    "body": [
+      "const ${1:ComponentName} = (${2:props}) => {",
+      "\t${3}",
+      "\treturn (",
+      "\t\t$0",
+      "\t);",
+      "};",
+      "export default ${1:ComponentName};"
+    ],
+    "description": "Functional Component"
+  },
+  "Function Component with useState": {
+    "prefix": "fcu",
+    "body": [
+      "import { useState } from 'react';",
+      "",
+      "const ${1:ComponentName} = (${2:props}) => {",
+      "\tconst [${3:state}, set${3/(.*)/${1:/capitalize}/}] = useState(${4:initialValue});",
+      "\t${5}",
+      "\treturn (",
+      "\t\t$0",
+      "\t);",
+      "};",
+      "export default ${1:ComponentName};"
+    ],
+    "description": "Functional Component with useState"
+  },
+  "useEffect Hook": {
+    "prefix": "uef",
+    "body": [
+      "useEffect(() => {",
+      "\t$0",
+      "}, [${1}]);"
+    ],
+    "description": "useEffect Hook"
+  },
+  "useCallback Hook": {
+    "prefix": "ucb",
+    "body": [
+      "const ${1:callback} = useCallback(() => {",
+      "\t$0",
+      "}, [${2}]);"
+    ],
+    "description": "useCallback Hook"
+  },
+  "useRef Hook": {
+    "prefix": "urf",
+    "body": [
+      "const ${1:ref} = useRef(${2:null});"
+    ],
+    "description": "useRef Hook"
+  },
+  "useContext Hook": {
+    "prefix": "uct",
+    "body": [
+      "const ${1:context} = useContext(${2:Context});"
+    ],
+    "description": "useContext Hook"
+  },
+  "useReducer Hook": {
+    "prefix": "urd",
+    "body": [
+      "const [${1:state}, ${2:dispatch}] = useReducer(${3:reducer}, ${4:initialState});"
+    ],
+    "description": "useReducer Hook"
+  },
+  "useMemo Hook": {
+    "prefix": "ume",
+    "body": [
+      "const ${1:memoizedValue} = useMemo(() => ${2:computeValue}, [${3:dependencies}]);"
+    ],
+    "description": "useMemo Hook"
+  },
+  "Declare new state variable": {
+    "prefix": "usf",
+    "body": [
+      "const [${1:state}, set${1/(.*)/${1:/capitalize}/}] = useState(${2:initialValue});"
+    ],
+    "description": "Declare a new state variable using useState Hook"
+  },
+  "Inline Exported Function Component": {
+    "prefix": "fce",
+    "body": [
+      "export const ${1:ComponentName} = (${2:props}) => {",
+      "\t${3}",
+      "\treturn (",
+      "\t\t$0",
+      "\t);",
+      "};"
+    ],
+    "description": "Inline Exported Function Component"
+  },
+  "useEffect with cleanup": {
+    "prefix": "uefc",
+    "body": [
+      "useEffect(() => {",
+      "\t$1",
+      "\treturn () => {",
+      "\t\t$0",
+      "\t};",
+      "}, [${2}]);"
+    ],
+    "description": "useEffect Hook with cleanup"
+  },
+  "useLayoutEffect Hook": {
+    "prefix": "ule",
+    "body": [
+      "useLayoutEffect(() => {",
+      "\t$0",
+      "}, [${1}]);"
+    ],
+    "description": "useLayoutEffect Hook"
+  },
+  "Custom Hook": {
+    "prefix": "hook",
+    "body": [
+      "const use${1:HookName} = (${2:params}) => {",
+      "\t$0",
+      "\treturn ${3:value};",
+      "};",
+      "export default use${1:HookName};"
+    ],
+    "description": "Custom Hook"
+  },
+  "Context Provider": {
+    "prefix": "cp",
+    "body": [
+      "import { createContext } from 'react';",
+      "",
+      "export const ${1:ContextName} = createContext();",
+      "",
+      "const ${1}Provider = ({ children }) => {",
+      "\tconst [${2:state}, set${2/(.*)/${1:/capitalize}/}] = useState(${3:initialState});",
+      "\t$0",
+      "\treturn (",
+      "\t\t<${1:ContextName}.Provider value={{ ${2:state}, set${2/(.*)/${1:/capitalize}/} }}>",
+      "\t\t\t{children}",
+      "\t\t</${1:ContextName}.Provider>",
+      "\t);",
+      "};",
+      "",
+      "export default ${1}Provider;"
+    ],
+    "description": "Context Provider with useState"
+  }
+}

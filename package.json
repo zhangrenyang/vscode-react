@@ -3,7 +3,7 @@
 	"icon": "images/logo.png",
 	"displayName": "React",
 	"description": "A VS Code extension for quick access to React, supporting multi-language selection and simultaneous viewing in both VS Code and the system browser.",
-	"version": "0.1.18",
+	"version": "0.1.19",
 	"license": "MIT",
 	"publisher": "zhang-renyang",
 	"keywords": [
